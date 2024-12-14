@@ -4,7 +4,7 @@
     
     <groupId>io.github.ctgnz</groupId>
     <artifactId>foxglove</artifactId>
-    <version>0.9.5-SNAPSHOT</version>
+    <version>0.9.6-SNAPSHOT</version>
     <packaging>jar</packaging>
     
     <name>Foxglove SVG/JavaFX</name>
@@ -73,7 +73,7 @@
 		<dependency>
 		    <groupId>org.eclipse.persistence</groupId>
 		    <artifactId>org.eclipse.persistence.moxy</artifactId>
-		    <version>4.0.0</version>
+		    <version>4.0.4</version>
 		    <exclusions>
 		        <exclusion>
 		            <groupId>org.eclipse.angus</groupId>
